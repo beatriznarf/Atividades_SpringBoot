@@ -27,7 +27,7 @@ import lombok.Data;
 // toString, equals, e hashCode.
 
 
-public class Organizacoes {
+public class OrganizacoesModels {
 
     @Id
     //Indica que o campo id é a chave primária da entidade.

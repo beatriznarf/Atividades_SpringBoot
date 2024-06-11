@@ -8,7 +8,7 @@ import lombok.Data;
 @Table  (name = "Aniversários")
 @Data
 
-public class Aniversarios {
+public class AniversariosModels {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
